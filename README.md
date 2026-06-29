@@ -1,2 +1,3 @@
-# Arijit-12
+# Arijit
+
 1st lab
